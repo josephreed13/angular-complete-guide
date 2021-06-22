@@ -1,1 +1,4 @@
 .vscode/settings.json
+.DS_Store
+.gitignore
+basics-assignment-1-start/.editorconfig
